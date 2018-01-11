@@ -1,0 +1,4 @@
+#Wed Jan 10 19:55:38 MST 2018
+base.0=/afs/ualberta.ca/home/i/m/imtihan/Documents/projects_301/demo/FillerCreepForAndroid/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
